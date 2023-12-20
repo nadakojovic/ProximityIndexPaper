@@ -31,6 +31,8 @@ This repository contains MATLAB scripts used for generating figures in our paper
 
 Please cite our paper if you use these scripts in your research:
 
-- Kojovic, N., et al. "Unraveling the Developmental Dynamic of Visual Exploration of Social Interactions in Autism." [Journal], [Year]. DOI: [Insert DOI]
+-"Unraveling the Developmental Dynamic of Visual Exploration of Social Interactions in Autism"
+ N. Kojovic, S. Cekic, S.H. Castañón, M. Franchini, H.F. Sperdin, C. Sandini,
+ R.K. Jan, D. Zöller, L. Ben Hadid, D. Bavelier, M. Schaer
+ bioRxiv 2020.09.14.290106; doi: https://doi.org/10.1101/2020.09.14.290106
 
-For any further inquiries or assistance, please contact 
