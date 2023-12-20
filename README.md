@@ -1,4 +1,5 @@
 # Unraveling the Developmental Dynamic of Visual Exploration of Social Interactions in Autism
+
 This repository contains MATLAB scripts used for generating figures in our paper, "Unraveling the Developmental Dynamic of Visual Exploration of Social Interactions in Autism." Each script corresponds to a specific figure in the paper, providing detailed analyses of visual exploration patterns in children with Autism Spectrum Disorder (ASD) compared to Typically Developing (TD) children.
 
 ## Requirements
