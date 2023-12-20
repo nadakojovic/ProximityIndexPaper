@@ -33,4 +33,4 @@ Please cite our paper if you use these scripts in your research:
 
 - Kojovic, N., et al. "Unraveling the Developmental Dynamic of Visual Exploration of Social Interactions in Autism." [Journal], [Year]. DOI: [Insert DOI]
 
-For any further inquiries or assistance, please contact [Nada.Kojovic].
+For any further inquiries or assistance, please contact 
